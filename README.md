@@ -1,4 +1,4 @@
-## olá, eu sou o Luiz Felipe 
+## Iae, eu sou o Luiz Felipe 
 * 📚 Cursando 6º  Período de Sistemas de informações na Faesa;
 * 📧 E-mail: luizfelipe275@hotmail.com
 
