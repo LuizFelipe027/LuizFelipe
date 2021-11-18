@@ -15,6 +15,7 @@
     <img align="center" alt="LF-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
     <img align="center" alt="LF-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="LF-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> 
+    <img align="center" alt="LF-SQLServer" height="30" widht="40" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
   </div>
   
   ##
