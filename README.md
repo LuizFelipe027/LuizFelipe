@@ -1,6 +1,6 @@
-## Iae, eu sou o Luiz Felipe 
+## Luiz Felipe 
 * 📚 Cursando 6º  Período de Sistemas de informações na Faesa;
-* 📧 E-mail: luizfelipe275@hotmail.com
+* 📧 E-mail: luizfelipe275@hotmail.com;
 
  <div>
   <a href="https://github.com/luizfelipe027">
