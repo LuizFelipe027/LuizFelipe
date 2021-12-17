@@ -1,5 +1,5 @@
 ## Luiz Felipe 
-* 📚 Cursando 6º  Período de Sistemas de informações na Faesa;
+* 📚 Cursando 7º  Período de Sistemas de informações na Faesa;
 * 📧 E-mail: luizfelipe275@hotmail.com;
 
  <div>
@@ -16,6 +16,8 @@
     <img align="center" alt="LF-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
     <img align="center" alt="LF-R" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg"> 
     <img align="center" alt="LF-SQLServer" height="30" widht="40" src="https://cdn-icons-png.flaticon.com/128/2772/2772128.png">
+    <img align="center" alt="LF-VisualBasic" height="30" widht="40" src="https://img.icons8.com/fluent/50/000000/visual-basic.png">
+   <img />
   </div>
   
   ##
