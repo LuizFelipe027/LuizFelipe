@@ -1,5 +1,5 @@
 ## Luiz Felipe 
-* 📚 Cursando 7º  Período de Sistemas de informações na Faesa;
+* 📚 Bacharel em Sistemas de informações;
 * 📧 E-mail: luizfelipe275@hotmail.com;
 
  <div>
